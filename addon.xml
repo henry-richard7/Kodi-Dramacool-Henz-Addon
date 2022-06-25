@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.henry.dramacool" name="Dramacool Henz" version="0.0.1" provider-name="Henry Richard">
+<addon id="plugin.henry.dramacool" name="Dramacool Henz" version="1.0" provider-name="Henry Richard">
     <requires>
-        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.routing" version="0.2.0"/>
+        <import addon="script.module.simplejson" version="3.3.0"/>
+        <import addon="script.module.codequick" version="1.0.2"/>
+        <import addon="script.module.inputstreamhelper" version="0.5.2"/>
+        <import addon="script.module.beautifulsoup4" version="4.3.2"/>
 
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
