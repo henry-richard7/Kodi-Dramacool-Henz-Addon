@@ -1,6 +1,8 @@
 # Kodi Dramacool Henz Addon
 A kodi addon that you can use to watch Asian Drama in Kodi Mediaplayer
 
+![Downloads](https://img.shields.io/github/downloads/henry-richard7/Kodi-Dramacool-Henz-Addon/total.svg?style=for-the-badge&logo=github)
+
 # Screenshots
 ![Screen-Shot-1](https://github.com/henry-richard7/Kodi-Dramacool-Henz-Addon/raw/master/Screenshots/1.png)
 ![Screen-Shot-2](https://github.com/henry-richard7/Kodi-Dramacool-Henz-Addon/raw/master/Screenshots/2.png)
