@@ -16,9 +16,3 @@ The addon just scrapes the drama from https://asianembed.io/ and displays it in 
 * Go to addons in kodi.
 * Select Install From ZIP.
 * Select the Zip File that you have downloaded.
-
-## Donations
-
-If you like my projects then consider making a small donation by clicking below button ^\_^
-<br/>
-[![](https://img.shields.io/badge/Donate-Paypal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.com/paypalme/henryrics)
